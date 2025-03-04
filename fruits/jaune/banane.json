@@ -1,0 +1,73 @@
+{
+  "id": "9009EF3A-C0D4-4243-8606-D39E68AFC598",
+  "micronutriments": [
+    {
+      "name": "folate",
+      "valeur": "20",
+      "unite": "mcg"
+    },
+    {
+      "name": "manganese",
+      "valeur": "0,27",
+      "unite": "mg"
+    },
+    {
+      "name": "magnesium",
+      "valeur": "27",
+      "unite": "mg"
+    },
+    {
+      "name": "potassium",
+      "unite": "mg",
+      "valeur": "358"
+    },
+    {
+      "name": "vitamine_b6",
+      "valeur": "0,4",
+      "unite": "mg"
+    },
+    {
+      "name": "vitamine_c",
+      "unite": "mg",
+      "valeur": "8,7"
+    }
+  ],
+  "name": "banane",
+  "macronutriments": [
+    {
+      "valeur": "89",
+      "unite": "kcal",
+      "name": "calorie"
+    },
+    {
+      "name": "fibres",
+      "valeur": "2,6",
+      "unite": "g"
+    },
+    {
+      "valeur": "22,8",
+      "unite": "g",
+      "name": "glucides"
+    },
+    {
+      "unite": "g",
+      "name": "gras_satures",
+      "valeur": "0,1"
+    },
+    {
+      "name": "lipide",
+      "unite": "g",
+      "valeur": "0,3"
+    },
+    {
+      "name": "proteine",
+      "unite": "g",
+      "valeur": "1,1"
+    },
+    {
+      "name": "sucre_alimentaire",
+      "unite": "g",
+      "valeur": "12,2"
+    }
+  ]
+}
