@@ -1,0 +1,17 @@
+{
+  "name": "hello",
+  "macronutriments": [
+    {
+      "name": "cafeine",
+      "valeur": "2",
+      "unite": "mg"
+    },
+    {
+      "name": "cholesterol_alimentaire",
+      "valeur": "5",
+      "unite": "mg"
+    }
+  ],
+  "micronutriments": [],
+  "id": "A3C39A46-8CE3-455D-BCC1-5CAF9FE6EB38"
+}
