@@ -1,0 +1,63 @@
+{
+  "id": "CF8E4E90-D26B-4A42-8EED-130199B86803",
+  "macronutriments": [
+    {
+      "valeur": "47",
+      "name": "calorie",
+      "unite": "kcal"
+    },
+    {
+      "name": "fibres",
+      "unite": "g",
+      "valeur": "1,7"
+    },
+    {
+      "valeur": "12",
+      "unite": "g",
+      "name": "glucides"
+    },
+    {
+      "name": "lipide",
+      "valeur": "0,1",
+      "unite": "g"
+    },
+    {
+      "unite": "g",
+      "name": "proteine",
+      "valeur": "0,9"
+    },
+    {
+      "valeur": "9",
+      "name": "sucre_alimentaire",
+      "unite": "g"
+    }
+  ],
+  "name": "clementine",
+  "micronutriments": [
+    {
+      "valeur": "30",
+      "unite": "mg",
+      "name": "calcium"
+    },
+    {
+      "unite": "mcg",
+      "name": "folate",
+      "valeur": "24"
+    },
+    {
+      "unite": "mg",
+      "name": "magnesium",
+      "valeur": "10"
+    },
+    {
+      "unite": "mg",
+      "name": "potassium",
+      "valeur": "177"
+    },
+    {
+      "name": "vitamine_c",
+      "valeur": "48,8",
+      "unite": "mg"
+    }
+  ]
+}
