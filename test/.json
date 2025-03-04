@@ -1,0 +1,91 @@
+{
+  "macronutriments": [
+    {
+      "name": "calorie",
+      "valeur": "48",
+      "unite": "kcal"
+    },
+    {
+      "name": "fibres",
+      "valeur": "2",
+      "unite": "g"
+    },
+    {
+      "name": "glucides",
+      "valeur": "11",
+      "unite": "g"
+    },
+    {
+      "name": "gras_satures",
+      "valeur": "0,02",
+      "unite": "g"
+    },
+    {
+      "name": "lipide",
+      "valeur": "0,4",
+      "unite": "g"
+    },
+    {
+      "name": "proteine",
+      "valeur": "1,4",
+      "unite": "g"
+    },
+    {
+      "name": "sucre_alimentaire",
+      "valeur": "9",
+      "unite": "g"
+    }
+  ],
+  "micronutriments": [
+    {
+      "name": "calcium",
+      "valeur": "13",
+      "unite": "mg"
+    },
+    {
+      "name": "fer",
+      "valeur": "0,4",
+      "unite": "mg"
+    },
+    {
+      "name": "folate",
+      "valeur": "9",
+      "unite": "mcg"
+    },
+    {
+      "name": "magnesium",
+      "valeur": "10",
+      "unite": "mg"
+    },
+    {
+      "name": "phosphore",
+      "valeur": "23",
+      "unite": "mg"
+    },
+    {
+      "name": "potassium",
+      "valeur": "259",
+      "unite": "mg"
+    },
+    {
+      "name": "vitamine_a",
+      "valeur": "1926",
+      "unite": "mcg"
+    },
+    {
+      "name": "vitamine_c",
+      "valeur": "10",
+      "unite": "mg"
+    },
+    {
+      "name": "vitamine_e",
+      "valeur": "0,89",
+      "unite": "mg"
+    },
+    {
+      "name": "vitamine_k",
+      "valeur": "3,3",
+      "unite": "mcg"
+    }
+  ]
+}
