@@ -1,0 +1,12 @@
+{
+  "micronutriments": [],
+  "name": "test",
+  "id": "4ED8DCD0-049C-45E7-82C2-2C925DC03233",
+  "macronutriments": [
+    {
+      "valeur": "2",
+      "unite": "mg",
+      "name": "cafeine"
+    }
+  ]
+}
