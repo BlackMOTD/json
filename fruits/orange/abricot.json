@@ -1,0 +1,93 @@
+{
+  "name": "abricot",
+  "id": "C4DB819A-6685-4CB8-ADA9-C134640C8EEB",
+  "macronutriments": [
+    {
+      "unite": "kcal",
+      "name": "calorie",
+      "valeur": "48"
+    },
+    {
+      "name": "fibres",
+      "valeur": "2",
+      "unite": "g"
+    },
+    {
+      "valeur": "11",
+      "unite": "g",
+      "name": "glucides"
+    },
+    {
+      "unite": "g",
+      "valeur": "0,02",
+      "name": "gras_satures"
+    },
+    {
+      "name": "lipide",
+      "valeur": "0,4",
+      "unite": "g"
+    },
+    {
+      "name": "proteine",
+      "valeur": "1,4",
+      "unite": "g"
+    },
+    {
+      "unite": "g",
+      "name": "sucre_alimentaire",
+      "valeur": "9"
+    }
+  ],
+  "micronutriments": [
+    {
+      "name": "calcium",
+      "valeur": "13",
+      "unite": "mg"
+    },
+    {
+      "name": "fer",
+      "valeur": "0,4",
+      "unite": "mg"
+    },
+    {
+      "name": "folate",
+      "valeur": "9",
+      "unite": "mcg"
+    },
+    {
+      "name": "magnesium",
+      "valeur": "10",
+      "unite": "mg"
+    },
+    {
+      "unite": "mg",
+      "name": "phosphore",
+      "valeur": "23"
+    },
+    {
+      "name": "potassium",
+      "valeur": "259",
+      "unite": "mg"
+    },
+    {
+      "name": "vitamine_a",
+      "valeur": "1926",
+      "unite": "mcg"
+    },
+    {
+      "name": "vitamine_c",
+      "valeur": "10",
+      "unite": "mg"
+    },
+    {
+      "valeur": "0,89",
+      "name": "vitamine_e",
+      "unite": "mg"
+    },
+    {
+      "unite": "mcg",
+      "valeur": "3,3",
+      "name": "vitamine_k"
+    }
+  ]
+}
