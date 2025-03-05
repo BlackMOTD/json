@@ -1,0 +1,12 @@
+{
+  "micronutriments": [],
+  "id": "6C39BE8D-66C3-4F3C-A296-EE97AF5D186A",
+  "name": "123",
+  "macronutriments": [
+    {
+      "name": "cholesterol_alimentaire",
+      "unite": "mg",
+      "valeur": "2"
+    }
+  ]
+}
