@@ -1,0 +1,12 @@
+{
+  "micronutriments": [],
+  "macronutriments": [
+    {
+      "name": "calorie",
+      "unite": "kcal",
+      "valeur": "2"
+    }
+  ],
+  "id": "D0F54347-9DC6-4C75-8409-7C5583D6684E",
+  "name": "fgt"
+}
