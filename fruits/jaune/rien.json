@@ -1,0 +1,12 @@
+{
+  "macronutriments": [
+    {
+      "name": "cafeine",
+      "unite": "mg",
+      "valeur": "2"
+    }
+  ],
+  "id": "E9B6EA51-1CC0-413B-8EAA-4DCBCF7E6867",
+  "name": "rien",
+  "micronutriments": []
+}
