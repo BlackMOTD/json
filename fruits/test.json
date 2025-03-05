@@ -1,0 +1,12 @@
+{
+  "id": "2D17EAC7-D5EA-49E1-97E5-EAD14ADA4FA1",
+  "micronutriments": [],
+  "name": "test",
+  "macronutriments": [
+    {
+      "name": "calorie",
+      "unite": "kcal",
+      "valeur": "2"
+    }
+  ]
+}
